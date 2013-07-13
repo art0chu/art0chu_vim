@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/yuejun/git/opentsdb'
+let g:netrw_dirhist_2='/home/yuejun/workspace/Tests/input/out.txt'
+let g:netrw_dirhist_3='/home/yuejun/code/dip_console/views/cluster'
+let g:netrw_dirhist_4='/home/yuejun/tmp/learnNode/n2Mvc/controllers'
